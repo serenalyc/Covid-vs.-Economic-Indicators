@@ -1,1 +1,1 @@
-# ISYS812
+# Covid vs. Economic Indicators
